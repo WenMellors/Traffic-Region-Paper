@@ -1,20 +1,3 @@
-<style
-  type="text/css">
-table th:first-of-type {width:60px;}
-
-table th:nth-of-type(2) {width:60px;}
-
-table th:nth-of-type(3) {width:60px;}
-
-table th:nth-of-type(3) {width:100px;}
-</style>
-<style
-  type="text/css">
-h1 {color:red;}
-
-p {color:blue;}
-</style>
-
 ## WWW
 
 #### 论文简介
