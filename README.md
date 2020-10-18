@@ -10,7 +10,7 @@
 #### 论文编号
 
 1. **<span id = "WWW-1">Factorizing Personalized Markov Chains for Next-Basket Recommendation</span>**
-2. **<span id="WWW-2">DeepMove: Predicting Human Mobility with Attentional Recurrent Networks</span>**
+2. **<span id="WWW-3">DeepMove: Predicting Human Mobility with Attentional Recurrent Networks</span>**
 
 ## KDD
 
@@ -50,3 +50,51 @@
 #### 论文编号
 
 1. **<span id = "CIKM-1">SERM: A Recurrent Model for Next Location Prediction in Semantic Trajectories</span>**
+
+## IJCAI
+
+#### 论文简介
+
+| 编号          | 名称     | 年份 | 源码链接                                             | 简介                                                         |
+| ------------  | -------- | ---- | ---------------------------------------------------- | ------------------------------------------------------------ |
+| [1](#IJCAI-1) | HST-LSTM | 2018 | [链接](https://github.com/Logan-Lin/ST-LSTM_PyTorch) |                                                              |
+
+#### 论文编号
+
+1. **<span id = "IJCAI-1">HST-LSTM: A Hierarchical Spatial-Temporal Long-Short Term Memory Network for Location Prediction</span>**
+
+## AAAI
+
+#### 论文简介
+
+| 编号           | 名称  | 年份 | 源码链接                                 | 简介                                                         |
+| ------------   | ----  | ---- | ---------------------------------------- | ------------------------------------------------------------ |
+| [1](#AAAI-1)   | STRNN | 2016 | [链接](https://github.com/yongqyu/STRNN) |                                                              |
+
+#### 论文编号
+
+1. **<span id = "AAAI-1">Predicting the Next Location: A Recurrent Model with Spatial and Temporal Contexts</span>**
+
+## MDM（C 类会议）
+
+#### 论文简介
+
+| 编号          | 名称 | 年份 | 源码链接                                     | 简介                                                         |
+| ------------  | ---- | ---- | -------------------------------------------- | ------------------------------------------------------------ |
+| [1](#MDM-1)   | STAR | 2018 | [链接](https://github.com/hongnianwang/STAR) |                                                              |
+
+#### 论文编号
+
+1. **<span id = "MDM-1">STAR: A Concise Deep Learning Framework for Citywide Human Mobility Prediction</span>**
+
+## IMWUT（Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies）
+
+#### 论文简介
+
+| 编号            | 名称   | 年份 | 源码链接                                 | 简介                                                         |
+| ------------    | ------ | ---- | ---------------------------------------- | ------------------------------------------------------------ |
+| [1](#IMWUT-1)   | MALMCS | 2020 | [链接](https://github.com/sjruan/malmcs) |                                                              |
+
+#### 论文编号
+
+1. **<span id = "IMWUT-1">Dynamic Public Resource Allocation Based on Human Mobility Prediction</span>**
