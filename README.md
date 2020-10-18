@@ -5,12 +5,12 @@
 | 编号        | 名称     | 年份 | 源码链接                                    | 简介                                                         |
 | ----------- | -------- | ---- | ------------------------------------------- | ------------------------------------------------------------ |
 | [1](#WWW-1) | FPMC     | 2010 | [非官方](https://github.com/khesui/FPMC)    | 实际是推荐系统相关的方法，但也可以用来做下一跳预测。基于马尔科夫链+矩阵分解来实现的 |
-| [2](#WWW-1) | DeepMove | 2018 | [链接](https://github.com/vonfeng/DeepMove) | 引入历史轨迹特征，并用 attention 机制去处理它                |
+| [2](#WWW-2) | DeepMove | 2018 | [链接](https://github.com/vonfeng/DeepMove) | 引入历史轨迹特征，并用 attention 机制去处理它                |
 
 #### 论文编号
 
 1. **<span id = "WWW-1">Factorizing Personalized Markov Chains for Next-Basket Recommendation</span>**
-2. **<span id="WWW-3">DeepMove: Predicting Human Mobility with Attentional Recurrent Networks</span>**
+2. **<span id="WWW-2">DeepMove: Predicting Human Mobility with Attentional Recurrent Networks</span>**
 
 ## KDD
 
